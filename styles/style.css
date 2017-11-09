@@ -1,0 +1,21 @@
+.twitter-icon {
+	height: 40px;
+	width: 40px;
+	position: relative;
+}
+
+.linkedin-icon {
+	height: 40px;
+	width: 40px;
+	position: relative;
+}
+
+.twitter {
+	list-style: none;
+	display: inline;
+}
+
+.linkedin {
+	list-style: none;
+	display: inline;
+}
