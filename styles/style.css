@@ -1,3 +1,13 @@
+.cookies {
+	background-color: pink;
+	border: 2px solid grey;
+	border-radius: 10px;
+	position: fixed;
+	bottom: 0%;
+	right: 0%;
+	padding: 10px;
+}
+
 .twitter-icon {
 	height: 40px;
 	width: 40px;
